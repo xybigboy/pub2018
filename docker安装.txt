@@ -1,0 +1,23 @@
+curl -fsSL https://get.docker.com -o get-docker.sh
+bash get-docker.sh
+systemctl start docker
+
+
+https://blog.csdn.net/czy_6837/article/details/84325142
+docker文档使用快捷功能
+
+https://www.cnblogs.com/wt645631686/p/7453727.html
+docker安装
+
+https://oneinstack.com/auto/
+lamp环境安装
+
+https://www.cnblogs.com/bob-yanlibo/p/8413298.html
+mariadb安装
+
+https://blog.csdn.net/qq_37729662/article/details/85626813
+docker pull lamp 搭建workprees
+
+
+https://blog.csdn.net/xphouziyu/article/details/81838912
+使用docker搭建LAMP环境
